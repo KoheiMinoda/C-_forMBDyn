@@ -1,5 +1,5 @@
 実行したいファイルがあるディレクトリに移動
 
-g++ hello.cpp -o hello
+g++ hello.cpp -o exe
 
-./hello
+./exe

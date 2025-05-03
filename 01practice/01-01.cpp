@@ -1,3 +1,5 @@
+// コンパイル，実行の手順確認
+
 #include <iostream> // 出力に必要なヘッダファイル
 
 int main() {
