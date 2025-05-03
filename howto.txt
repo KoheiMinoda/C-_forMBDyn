@@ -1,0 +1,5 @@
+実行したいファイルがあるディレクトリに移動
+
+g++ hello.cpp -o hello
+
+./hello
