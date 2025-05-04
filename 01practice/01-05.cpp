@@ -22,9 +22,9 @@ int main() {
 
 // 位置と速度の情報を持たせる
 int main() {
-    const int N = 3;
-    double position[N] = {0.0, 1.0, 2.0};
-    double velocity[N] = {0.0, 0.5, 1.0};
+    const int N = 3; // 3 つのノードについて考える
+    double position[N] = {0.0, 1.0, 2.0}; // 三次元の情報を持たせるためにはここで工夫が必要
+    double velocity[N] = {0.0, 0.5, 1.0}; // 三次元の情報を持たせるためにはここで工夫が必要
     double dt = 1.0;
 
     for (int i = 0; i < N; ++i) {
