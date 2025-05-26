@@ -1,0 +1,416 @@
+reference : 50001,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50002,
+	reference, global,
+		 XFP2,  YFP2,  ZFP2,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50003,
+	reference, global,
+		 XFP3,  YFP3,  ZFP3,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50101,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50102,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50103,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50104,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50105,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50106,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50107,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50108,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50109,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50110,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50111,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50112,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50113,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50114,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50115,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50116,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50117,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50118,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50119,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50201,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50202,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50203,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50204,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50205,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50206,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50207,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50208,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50209,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50210,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50211,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50212,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50213,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50214,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50215,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50216,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50217,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50218,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50219,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50301,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50302,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50303,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50304,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50305,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50306,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50307,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50308,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50309,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50310,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50311,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50312,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50313,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50314,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50315,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50316,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50317,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50318,
+	reference, global,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
+
+reference : 50319,
+		 XFP1,  YFP1,  ZFP1,
+	reference, global, eye,
+	reference, global, null,
+	reference, global, null;
